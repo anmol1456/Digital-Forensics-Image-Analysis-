@@ -4,7 +4,7 @@
 This project demonstrates **digital forensic analysis** of a forensic disk image using **Autopsy**, an open-source tool for extracting digital evidence. The analysis aims to uncover hidden or deleted data, track user activity, and identify potential security incidents. This repository highlights key forensic steps and the use of Autopsy for evidence extraction.
 
 ## Key Steps & Findings:
-1. **Forensic Image Analysi**: Loaded the disk image into Autopsy to begin the examination.
+1. **Forensic Image Analysis**: Loaded the disk image into Autopsy to begin the examination.
 2. **Evidence Recovery**: Recovered deleted files, metadata, and system logs.
 3. **User Activity Tracking**: Investigated registry entries, system logs, and browsing history to trace user behavior.
 4. **Network Analysis**: Analyzed network logs to identify suspicious activity.
